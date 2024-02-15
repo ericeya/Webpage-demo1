@@ -17,6 +17,10 @@ header {
     border-bottom: 5px solid rgb(5, 128, 185);
 }
 
+header a {
+    text-decoration: none;    
+}
+
 footer {
     text-align: center;
     font-size: 15px;
